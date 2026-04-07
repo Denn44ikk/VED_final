@@ -1,0 +1,8 @@
+numpy
+requests
+PyPDF2
+python-docx
+pytesseract
+Pillow
+python-dotenv
+chromadb>=1.0,<2.0
